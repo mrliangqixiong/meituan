@@ -55,7 +55,7 @@ selenium==3.13.0
 service-identity==17.0.0
 six==1.11.0
 SQLAlchemy==1.2.9
-twisted==18.4.0
+twisted==22.10.0
 urllib3==1.23
 w3lib==1.19.0
 Werkzeug==0.14.1
